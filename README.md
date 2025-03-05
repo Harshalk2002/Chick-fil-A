@@ -40,7 +40,7 @@ The dataset consists of **50 franchise disclosure documents** covering "Item 5: 
 - `Word_Cloud_Visualization.ipynb` – Visual representation of keywords from the franchise agreements.
 - `FourQuestions_m.csv` & `FourQuestions_roberta_m.csv` – Datasets containing extracted Q&A results.
 - `6_Report_Extracting Information from Textual Data Using NLP.pdf` – Detailed report on project findings.
-- `6_Presentation_Extracting Information from NLP.pptx` – Presentation summarizing the project.
+
 
 ## How to Run
 1. Clone this repository:
