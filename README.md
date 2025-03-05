@@ -5,12 +5,6 @@
 ## Project Overview
 This project applies **Natural Language Processing (NLP)** techniques to extract key information from textual franchise agreements, particularly focusing on **"Item 5: Initial Fees"** in franchise disclosure documents. The goal is to automate the extraction of franchise-related financial data using **Topic Modeling** and **Question-Answering (Q&A) models**.
 
-## Team Members
-- Pamela Alvarado-Zarate
-- Vishwanath Garlapalli
-- Mark Hite
-- Harshal Kamble
-- Venkatesh Subramony
 
 ## Dataset
 The dataset consists of **50 franchise disclosure documents** covering "Item 5: Initial Fees". The documents were analyzed using various NLP techniques to extract key terms, financial details, and structured answers.
